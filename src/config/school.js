@@ -1,3 +1,5 @@
+import principalImage from "../assets/gallery/principal.jpg";
+
 const school = {
   id: "kallapu",
   name: "Sayyid Madani",
@@ -59,7 +61,7 @@ We focus on building strong academic foundations while instilling moral values, 
   principal: {
     name: "NASEEMA BANU",
     message: `Welcome to Sayyid Madani School, Kallapu. Our mission is to nurture young minds in a warm, supportive environment where every child feels valued. We invite you to join our school family and discover the difference quality education makes.`,
-    image: "src/assets/gallery/principal.jpg",
+    image:principalImage,
   },
 
   facilities: [
